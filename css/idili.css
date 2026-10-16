@@ -267,7 +267,7 @@ border:none;
   left: -120px;
   top: 300px;
 
-  width: clamp(950px, 65vw, 1250px);
+  width: 950px;
 
   opacity: 0.5;
 
